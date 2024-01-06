@@ -1,0 +1,9 @@
+body {
+    background-color: #7c8e7e;
+    color: #ffffff;
+}
+
+#map {
+    height: 80vh;
+    background-color: gray;
+}
